@@ -4,9 +4,10 @@ Aplicando testes de Software
 # O que foi feito?
 ### what was done?
 
-Foi desenvolvido um teste de compatibilidade para o projeto MVC Cafeteria, criado pelos alunos. Esse teste utilizou o Selenium para avaliar o comportamento de aplicações web em diferentes navegadores, com foco na verificação da compatibilidade do software.
+Foi desenvolvido um teste de compatibilidade para o projeto MVC Cafeteria, criado pelos alunos. Esse teste utilizou o Selenium para avaliar o comportamento de aplicações web em diferentes navegadores, com foco na verificação da compatibilidade do software. 
 
-A compatibility test was developed for the MVC Cafeteria project, created by the students. This test used Selenium to evaluate the behavior of web applications in different browsers, focusing on verifying the software's compatibility. 
+A compatibility test was developed for the MVC Cafeteria project, created by the students. 
+This test used Selenium to evaluate the behavior of web applications in different browsers, focusing on verifying the software's compatibility. 
 
 
 # Como Executar?
