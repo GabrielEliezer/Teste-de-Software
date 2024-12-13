@@ -2,7 +2,7 @@
 Aplicando testes de Software
 
 # O que foi feito?
-# what was done?
+### what was done?
 
 Foi desenvolvido um teste de compatibilidade para o projeto MVC Cafeteria, criado pelos alunos. Esse teste utilizou o Selenium para avaliar o comportamento de aplicações web em diferentes navegadores, com foco na verificação da compatibilidade do software.
 
@@ -10,7 +10,7 @@ A compatibility test was developed for the MVC Cafeteria project, created by the
 
 
 # Como Executar?
-# how to execute?
+### how to execute?
 
 O teste foi criado através do vscode, sendo nescessário instalar o Selenium através dos comandos:
 The test was created using vscode, requiring the installation of Selenium through the following commands: 
@@ -28,7 +28,7 @@ To achieve this in .NET, simply execute the command "dotnet run".
 
 
 # Quais foram os testes Implementados?
-# What tests were implemented?
+### What tests were implemented?
 
 Foi implementado um teste de compatibilidade no qual desenvolvemos um script utilizando o Selenium para identificar elementos web e verificar se eles estão visualmente acessíveis e funcionando corretamente. O script valida se o elemento está visível e lança uma exceção caso não esteja. Além disso, o script acompanha o teste passo a passo, registrando no terminal, por meio de logs, se os elementos foram encontrados ou não.
 
@@ -36,7 +36,7 @@ A compatibility test was implemented where we developed a script using Selenium 
 
 
 # Autores:
-# Authors:
+### Authors:
 
 - Gabriel Eliezer Rodrigues
 - José Henrique Bernardes
